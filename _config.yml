@@ -115,7 +115,7 @@ content:
   - title: 역량
     layout: text
     content: | # this will include new lines to allow paragraphs  
-      <p style="font-size:30px;text-align:center;font-weight:normal;">세미나</p>
+      <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">세미나</p>
       <br>
       <br>
       - [MongoDB 정의와 장단점, 특징에 대한 세미나 경험이 있습니다.](https://young-dev.notion.site/MongoDB-43f94d1656714bcaa26970b4f82405ef)
@@ -124,7 +124,7 @@ content:
       - [Box Model 개념 및 Thymeleaf layout 세미나 경험이 있습니다.](https://young-dev.notion.site/Box-Model-58fb86c3e7034b37bd0aa59a13c63679)
       <br>
       <br>
-      <p style="font-size:30px;text-align:center;font-weight:normal;">IT 서적 검토</p>
+      <p style="font-size:27px;text-align:center;font-weight:normal;">IT 서적 검토</p>
       <br>
       <br>
       - [수학이쑥쑥!코딩이척척! 초등코딩수학사고력 3단계](http://www.yes24.com/Product/Goods/101780376) 출간 전 검토
