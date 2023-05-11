@@ -124,7 +124,7 @@ content:
       - [Box Model 개념 및 Thymeleaf layout 세미나 경험이 있습니다.](https://young-dev.notion.site/Box-Model-58fb86c3e7034b37bd0aa59a13c63679)
       <br>
       <br>
-      <p style="font-size:27px;text-align:center;font-weight:normal;">IT 서적 검토</p>
+       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">IT 서적 검토</p>
       <br>
       <br>
       - [수학이쑥쑥!코딩이척척! 초등코딩수학사고력 3단계](http://www.yes24.com/Product/Goods/101780376) 출간 전 검토
@@ -133,7 +133,7 @@ content:
       - 67p 동물분류 알고리즘 그림 오류 검토 및 수정
       <br>
       <br>
-      <p style="font-size:30px;text-align:center;font-weight:normal;">웹서버 구축</p>
+       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">웹서버 구축</p>
       <br>
       <br>
       - 온프레미스, 클라우드 환경에서의 다양한 서버구축 경험
@@ -141,7 +141,7 @@ content:
       - AWS Cloud, Ubuntu, EC2, RDS, S3 Bucket 활용 클라우드 서버 애플리케이션 배포 경험
       <br>
       <br>
-      <p style="font-size:30px;text-align:center;font-weight:normal;">배포자동화</p>
+       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">배포자동화</p>
       <br>
       <br>
       - 매번 지루하게 반복되는 배포 절차가 귀찮아서 Jenkins 및 GitHook 이용하여 배포자동화 개발
