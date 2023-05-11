@@ -150,22 +150,47 @@ content:
       - 빌드 정상 처리 분기 확인 후 Discord 및 Slack 에 알림 서비스 연동 및 개발
       - Docker를  이용할 사람들을 위해 외부에서도 로컬 접속 가능하도록 Ngrok 블로그 정리  및 연동
       - 사람들이 보고 쉽게 따라 할수 있도록 블로그 정리
+      - [배포자동화 따라하기 (1)](https://yjkim-dev.tistory.com/11)
+      - [배포자동화 따라하기 (2)](https://yjkim-dev.tistory.com/12)
+      - [배포자동화 따라하기 (3)](https://yjkim-dev.tistory.com/13)
+      - [배포자동화 따라하기 (4)](https://yjkim-dev.tistory.com/14)
+      - [배포자동화 따라하기 (5)](https://yjkim-dev.tistory.com/15)
+          
   
 
 
-  - title: Education # Title for the section
+  - title: Skill # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Backend
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          현재 업무에 사용중 혹은 사용했던 기술들입니다.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          - Java ,  Node.js(express.js + sequelize)
+          - Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis, JWT
+          - Junit4/5, (BDD)Mockito
+          - Gradle, Maven
+          - JetbrainTool(IntelliJ, WebStorm, DataGrip), Visual Studio Code
+      - layout: left
+        title: DevOps
+        quote: >
+          현재 업무에 사용중 혹은 사용했던 기술들입니다.
+        description: | # this will include new lines to allow paragraphs
+          - MySQL, MariaDB, MSSQL
+          - Jenkins, Docker
+          - AWS RDS/EC2/S3 Bucket
+          - Nginx, Tomcat
+          - Atlassian jira/Confluence, Swagger, Slack 
+      - layout: left
+        title: Frontend
+        quote: >
+          현재 업무에 사용중 혹은 사용했던 기술들입니다.
+        description: | # this will include new lines to allow paragraphs
+          - ES6, React.js, Flutter
+          - Npm, Webpack  
+      
+          
 
   
 
