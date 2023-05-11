@@ -9,7 +9,7 @@ version: 2
 name: 김영재
 title: 백엔드 서버 엔지니어
 email: newy12@naver.com
-website: www.github.com/sproogen/resume-theme
+website: https://yjkim-dev.tistory.com
 
 # Dark Mode (true/false/never)
 darkmode: false
