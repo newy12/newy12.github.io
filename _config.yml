@@ -85,9 +85,13 @@ content:
         description: | # this will include new lines to allow paragraphs
             - 통합 회원 서비스 API 개발
             - CMS 통합 관리자 페이지 API 개편  (PHP → JAVA)
+            - 머니투데이 기사 스크랩 소스 개발 및 검색엔진 Elastic Search로 관리
+            - 머니투데이, 머니투데이방송 혼합 기사 제공 API 개발 및 리펙토링
             - 대규모 트래픽,데이터 환경에서의 API/Batch 개발
             - Spring Batch를 이용하여 회원정보 및 결제 데이터 이관 배치프로그램 개발
             - 어드바이저 실시간 방송 송출을 위한 데이터 모델링 및 API 개발
+            - 이용중인 시스템에 팝빌 API 연동 및 계산서에 따른 정산 쿼리 리펙토링
+            - 정산 자동화 소스코드 리펙토링 및 유지보수
             - 레거시 청산 및 기존 비즈니스 유지보수
             - Junit4/5, (BDD)Mockito를 이용한 꾸준한 단위테스트, 통합테스트 작성
             - Jenkins & Githook을 이용한 개발서버 파이프라인 구축
