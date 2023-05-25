@@ -198,8 +198,8 @@ content:
   - title: Project # Title for the section
     layout: list # Type of content section (list/text)
     content:
-     - layout: left
-        title:  Site Crawling
+      - layout: left
+        title:  Movie Project
         caption: 2023.04 ~ 2023.05
         quote: >
           영화 커뮤니케이션 웹사이트
