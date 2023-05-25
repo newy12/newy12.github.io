@@ -198,9 +198,17 @@ content:
   - title: Project # Title for the section
     layout: list # Type of content section (list/text)
     content:
+     - layout: left
+        title:  Site Crawling
+        caption: 2023.04 ~ 2023.05
+        quote: >
+          영화 커뮤니케이션 웹사이트
+        description: | # this will include new lines to allow paragraphs
+          - [Movie Project Portfolio](https://young-dev.notion.site/API-818d769c5b014ceaa6191c24659a6be6)    
+          - [github URL](https://github.com/MovieApplication/backend)
       - layout: left
         title:  Site Crawling
-        caption: 2023.01.16 ~ 2023.01.17
+        caption: 2023.01 ~ 2023.01
         quote: >
           미래과학몰사이트 물품 재고 크롤링한 내용입니다.
         description: | # this will include new lines to allow paragraphs
@@ -217,7 +225,7 @@ content:
           - [github URL](https://github.com/ios-summar/Backend)
       - layout: left
         title: Sandbox Project
-        caption: 2022.03.02 - 2022.03.10
+        caption: 2022.03 - 2022.03
         quote: >
           샌드박스 사전과제 입니다.
         description: | # this will include new lines to allow paragraphs
