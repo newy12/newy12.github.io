@@ -242,7 +242,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           - [Freelancer Market Portfolio](https://young-dev.notion.site/KH-a3881a368d1d4e8ab59b1fcfd0d63da5)
           - [github URL](https://github.com/newy12/Final_19oclockProject)
+  - title: Certificate # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title:  정보처리기사
+        caption: 
+        description: | # this will include new lines to allow paragraphs
+          - 2021.06 취득 
+          - 한국산업인력 공단
+    
           
+         
 
   
 
