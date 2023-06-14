@@ -2,5 +2,5 @@
 
 ## 로컬에서 구동방법
 
-bundle install
+bundle install </br>
 bundle exec jekyll serve
