@@ -10,6 +10,7 @@ name: 김영재
 title: 백엔드 서버 엔지니어
 email: newy12@naver.com
 website: https://yjkim-dev.tistory.com
+blog: https://newy12.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -124,11 +125,11 @@ content:
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">세미나</p>
       <br>
       <br>
-      - [MongoDB 정의와 장단점, 특징에 대한 세미나 경험이 있습니다.](https://young-dev.notion.site/MongoDB-43f94d1656714bcaa26970b4f82405ef)
-      - [MongoDB 성능 비교](https://young-dev.notion.site/MongoDB-b6ff4a1839e04ecbb5b3b19ee3eea389)
-      - [MVC Pattern , Http Protocol 세미나 경험이 있습니다.](https://young-dev.notion.site/MVC-0329b3c8cb4644c582eb8749c738dd86)
-      - [Box Model 개념 및 Thymeleaf layout 세미나 경험이 있습니다.](https://young-dev.notion.site/Box-Model-58fb86c3e7034b37bd0aa59a13c63679)
-      - [Docker 및 Docker compose 세미나 경험이 있습니다.](https://young-dev.notion.site/c17c4677efaf4f4780ef6cd41fed0648?pvs=4)
+      - [MongoDB 주요 기능 & 활용 방안](https://young-dev.notion.site/MongoDB-43f94d1656714bcaa26970b4f82405ef)
+      - [데이터량에 따른 MongoDB 성능 비교](https://young-dev.notion.site/MongoDB-b6ff4a1839e04ecbb5b3b19ee3eea389)
+      - [MVC Pattern 및 웹 통신(프로토콜)](https://young-dev.notion.site/MVC-0329b3c8cb4644c582eb8749c738dd86)
+      - [Box Model 및 템플릿 엔진](https://young-dev.notion.site/Box-Model-58fb86c3e7034b37bd0aa59a13c63679)
+      - [Docker 개념 및 Docker Compose 사용](https://young-dev.notion.site/c17c4677efaf4f4780ef6cd41fed0648?pvs=4)
       <br>
       <br>
        <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">IT 서적 검토</p>
@@ -171,7 +172,7 @@ content:
     content:
       - layout: left
         title: Backend
-        quote: >
+        quote: 
           현재 업무에 사용중 혹은 사용했던 기술들입니다.
         description: | # this will include new lines to allow paragraphs
           - Java ,  Node.js(express.js + sequelize)
@@ -182,7 +183,7 @@ content:
           - JetbrainTool(IntelliJ, WebStorm, DataGrip), Visual Studio Code
       - layout: left
         title: DevOps
-        quote: >
+        quote: 
           현재 업무에 사용중 혹은 사용했던 기술들입니다.
         description: | # this will include new lines to allow paragraphs
           - ELK(Elastic Search, Logstash, Kibana)
@@ -193,7 +194,7 @@ content:
           - Atlassian jira/Confluence, Swagger, Slack 
       - layout: left
         title: Frontend
-        quote: >
+        quote: 
           현재 업무에 사용중 혹은 사용했던 기술들입니다.
         description: | # this will include new lines to allow paragraphs
           - ES6, React.js, Flutter
