@@ -46,7 +46,7 @@ facebook_username: people/%EA%B9%80%EC%98%81%EC%9E%AC/100005892694461/
 # about_title: About Me
 about_profile_image: images/youngjae.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Java & Spring, AWS 기반의 3년차 서버 백엔드 개발자로 현재 케이블 방송을 통해 <mark>3,400만 가구</mark> 에 증권 경제 콘텐츠 제공, <mark>99.4만명</mark> 의 유튜브 구독자 수를 보유하고 있는 <mark>머니투데이방송</mark> 에서 백엔드 신규 플랫폼 개발 및 기존 서비스 리뉴얼 등을 해왔습니다.
+  Java & Spring, AWS 기반의 3년차 서버 백엔드 개발자로 현재 케이블 방송을 통해 <mark>3,400만 가구</mark> 에 증권 경제 콘텐츠 제공, <mark>99.9만명</mark> 의 유튜브 구독자 수를 보유하고 있는 <mark>머니투데이방송</mark> 에서 백엔드 신규 플랫폼 개발 및 기존 서비스 리뉴얼 등을 해왔습니다.
 
   서비스에 대해 개발자 입장이 아닌 사용자 입장에서 먼저 생각하는 습관을 가지고 있으며, 항상 제 자신에게 의심을 품어, 여러 번 체크하는 버릇이 있어 Junit, Mockito 를 활용하여 수차례의 <mark>테스트코드</mark> 작성을 해오고 있습니다. 
   또한 꾸준한 개발 블로그 업로드를 하여 몰랐었던 지식을 기록해오고 있습니다.
@@ -108,7 +108,7 @@ content:
         quote: >
 
         description: | # this will include new lines to allow paragraphs
-            - 광명 중앙대학교병원 임상시험센터 대상자 관리 시스템 개발
+            - [광명 중앙대학교병원 임상시험센터 대상자 관리 시스템 STC 개발](https://gh.cauhs.or.kr/home/conts/105021001000000.do)
             - 의료기관용 표준작업지침 전산화 시스템 API 개발 및 비즈니스 유지보수 담당
             - 회사 메인 사이트 퍼블리싱 및 개발
             - IDC 환경 웹서버 환경 구축 및 프록시 설정 관리
@@ -228,6 +228,27 @@ content:
         description: | # this will include new lines to allow paragraphs
           - [Freelancer Market Portfolio](https://young-dev.notion.site/KH-a3881a368d1d4e8ab59b1fcfd0d63da5)
           - [github URL](https://github.com/newy12/Final_19oclockProject)
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title:  KH 정보교육원
+        caption: 2020.08 ~ 2021.01
+        description: | # this will include new lines to allow paragraphs
+          - 웹 개발에 관심이 생김과 동시에 웹 어플리케이션 교육의 필요성을 느껴 참여
+          - 프론트에 필요한 기본 언어 교육 과 Spring을 이용한 서버 구축 및 풀스텍 과정
+      - layout: left
+        title:  이지디자인컴퓨터학원
+        caption: 2019.04 ~ 2019.09
+        description: | # this will include new lines to allow paragraphs
+          - 처음 웹에 대해 접하면서 화면 구상에 대한 궁금증을 해결하기 위해 참여
+          - HTML, CSS, JS 등 화면 구성에 필요한 언어에 대한 깊이 있는 교육 수강
+          - 기존 웹사이트 클론코딩 및 기술 습득          
+      - layout: left
+        title:  청주대학교
+        caption: 2015.03 ~ 2021.02 (학사 졸업)
+        description: | # this will include new lines to allow paragraphs
+          - 컴퓨터정보공학과 부 학생회장
   - title: Certificate # Title for the section
     layout: list # Type of content section (list/text)
     content:
