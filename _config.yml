@@ -236,7 +236,7 @@ content:
         caption: 2020.08 ~ 2021.01
         description: | # this will include new lines to allow paragraphs
           - 웹 개발에 관심이 생김과 동시에 웹 어플리케이션 교육의 필요성을 느껴 참여
-          - 프론트에 필요한 기본 언어 교육 과 Spring을 이용한 서버 구축 및 풀스텍 과정
+          - 프론트에 필요한 기본 언어 교육과 Spring을 이용한 서버 구축 및 풀스텍 과정
       - layout: left
         title:  이지디자인컴퓨터학원
         caption: 2019.04 ~ 2019.09
@@ -249,6 +249,7 @@ content:
         caption: 2015.03 ~ 2021.02 (학사 졸업)
         description: | # this will include new lines to allow paragraphs
           - 컴퓨터정보공학과 부 학생회장
+          - Java, C, database, Python 등 기초 개발언어에 대한 교육
   - title: Certificate # Title for the section
     layout: list # Type of content section (list/text)
     content:
