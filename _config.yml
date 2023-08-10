@@ -10,7 +10,6 @@ name: 김영재
 title: 백엔드 서버 엔지니어
 email: newy12@naver.com
 website: https://newy12.github.io
-#website: https://yjkim-dev.tistory.com
 
 
 # Dark Mode (true/false/never)
@@ -29,14 +28,10 @@ facebook_username: people/%EA%B9%80%EC%98%81%EC%9E%AC/100005892694461/
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-blog
+  url: https://yjkim-dev.tistory.com/
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
@@ -122,7 +117,7 @@ content:
 
   - title: 역량
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | # this will include new lines to allow paragraphs    
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">세미나</p>
       <br>
       <br>
