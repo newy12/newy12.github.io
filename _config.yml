@@ -9,8 +9,9 @@ version: 2
 name: 김영재
 title: 백엔드 서버 엔지니어
 email: newy12@naver.com
-website: https://yjkim-dev.tistory.com
-blog: https://newy12.github.io/
+website: https://newy12.github.io
+#website: https://yjkim-dev.tistory.com
+
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -121,7 +122,7 @@ content:
 
   - title: 역량
     layout: text
-    content: | # this will include new lines to allow paragraphs  
+    content: | # this will include new lines to allow paragraphs
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">세미나</p>
       <br>
       <br>
@@ -163,10 +164,6 @@ content:
       - [배포자동화 따라하기 (3)](https://yjkim-dev.tistory.com/13)
       - [배포자동화 따라하기 (4)](https://yjkim-dev.tistory.com/14)
       - [배포자동화 따라하기 (5)](https://yjkim-dev.tistory.com/15)
-          
-  
-
-
   - title: Skill # Title for the section
     layout: list # Type of content section (list/text)
     content:
