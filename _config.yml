@@ -213,7 +213,7 @@ content:
           포트폴리오 소셜 어플리케이션 입니다.
         description: | # this will include new lines to allow paragraphs
           - [SUMMAR Application Portfolio](https://young-dev.notion.site/SUMMAR-API-7ca3cd4f333b49ca849c929e50460544)
-          - [App Store 배포](https://apps.apple.com/kr/app/summar/id1663426318) (현재 앱스토어에서 내린상태)
+          - <p><s>App Store 배포</s> (현재 앱스토어에서 내린상태)</p>
           - [github URL](https://github.com/ios-summar/Backend)
       - layout: left
         title:  Freelancer Market Project
