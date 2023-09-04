@@ -218,7 +218,7 @@ content:
         title: Summar Application
         caption: 2022.11 - 2023.03
         quote: >
-          포트폴리오 소셜 어플리케이션 입니다.
+          포트폴리오 소셜 어플리케이션
         description: | # this will include new lines to allow paragraphs
           - [SUMMAR Application Portfolio](https://young-dev.notion.site/SUMMAR-API-7ca3cd4f333b49ca849c929e50460544)
           - <p><s>App Store 배포</s> (현재 앱스토어에서 내린 상태)</p>
@@ -227,7 +227,7 @@ content:
         title:  Freelancer Market Project
         caption: 2020.12 - 2021.01
         quote: >
-          국비지원 파이널 프로젝트 7조 중 1위한 작품입니다.
+          국비지원 파이널 프로젝트 7조 중 1위
         description: | # this will include new lines to allow paragraphs
           - [Freelancer Market Portfolio](https://young-dev.notion.site/KH-a3881a368d1d4e8ab59b1fcfd0d63da5)
           - [github URL](https://github.com/newy12/Final_19oclockProject)
