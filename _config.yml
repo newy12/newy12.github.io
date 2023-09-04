@@ -141,9 +141,10 @@ content:
             - [파이프라인 CI/CD (4)](https://yjkim-dev.tistory.com/14)
             - [파이프라인 CI/CD (5)](https://yjkim-dev.tistory.com/15)
       - 다중 컨테이너 관리 및 프로세스 구축 경험 (개인)
-            - [docker-compose 컨테이너 관리](https://yjkim-dev.tistory.com/76)   
+            - [docker-compose 컨테이너 관리](https://yjkim-dev.tistory.com/76)
+            - [docker-compose nginx 로드밸런싱](https://yjkim-dev.tistory.com/79)
 
-            
+
 
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">사내 세미나 발표</p>
       <br>
