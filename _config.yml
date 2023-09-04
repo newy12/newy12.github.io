@@ -133,16 +133,21 @@ content:
       <br>
       <br>
       - 무중단 배포 프로세스 구축 경험 (개인)
-      - [무중단 배포 구축](https://yjkim-dev.tistory.com/83)
+
+         [무중단 배포 구축](https://yjkim-dev.tistory.com/83)
+
       - 파이프라인 CI/CD 구축 경험 (개인)
-      - [파이프라인 CI/CD (1)](https://yjkim-dev.tistory.com/11)
-      - [파이프라인 CI/CD (2)](https://yjkim-dev.tistory.com/12)
-      - [파이프라인 CI/CD (3)](https://yjkim-dev.tistory.com/13)
-      - [파이프라인 CI/CD (4)](https://yjkim-dev.tistory.com/14)
-      - [파이프라인 CI/CD (5)](https://yjkim-dev.tistory.com/15)
+
+         [파이프라인 CI/CD (1)](https://yjkim-dev.tistory.com/11)  
+         [파이프라인 CI/CD (2)](https://yjkim-dev.tistory.com/12)  
+         [파이프라인 CI/CD (3)](https://yjkim-dev.tistory.com/13)  
+         [파이프라인 CI/CD (4)](https://yjkim-dev.tistory.com/14)  
+         [파이프라인 CI/CD (5)](https://yjkim-dev.tistory.com/15)  
+
       - 다중 컨테이너 관리 및 프로세스 구축 경험 (개인)
-      - [docker-compose 컨테이너 관리](https://yjkim-dev.tistory.com/76)
-      - [docker-compose nginx 로드밸런싱](https://yjkim-dev.tistory.com/79)
+
+         [docker-compose 컨테이너 관리](https://yjkim-dev.tistory.com/76)  
+         [docker-compose nginx 로드밸런싱](https://yjkim-dev.tistory.com/79)  
 
 
 
