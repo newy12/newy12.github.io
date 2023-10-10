@@ -81,7 +81,7 @@ content:
           3,400만 가구, 100.2만명의 유튜브 구독자 보유
         description: | # this will include new lines to allow paragraphs
             - 대규모 트래픽, 데이터 환경에서의 API/Batch 개발
-            - MTN 메인페이지 , 뉴스 메인페이지 개발 및 트래픽 개선
+            - [MTN 메인페이지](https://mtn.co.kr) , [뉴스 메인페이지](https://news.mtn.co.kr) 개발 및 트래픽 개선
             - Mybatis → JPA 마이그레이션 및 운영 관리
             - 인프라 AWS 환경에서의 개발 및 관리
       - layout: left
