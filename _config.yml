@@ -106,6 +106,7 @@ content:
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">시스템 개발 및 유지보수</p>
       <br>
       <br>
+      <p>머니투데이방송</p>
       - 머니투데이방송 뉴스페이지, 메인페이지 유지보수 담당 (2022. 10 ~ ing)
       - 사내 메일서버 구축 후 각종 이벤트 (휴면전환 처리, 개인정보수집 안내 등..)에 따른 메일 전송 개발(2023.04 ~ 2023.05)
       - 회원정보 및 결제 데이터 이관 배치프로그램 개발 (2022.12 ~ 2022.12)
@@ -115,6 +116,7 @@ content:
       - 세이프소프트 사내 6개의 시스템 배포 자동화 구축 (2021.10 ~ 2021.10)
       - 세이프소프트 사내 Bug Tracking System 개발 참여 (2021.08 ~ 2021.12)
       <br>
+      <p>세이프소프트</p>
       <br>
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">시스템 리팩토링 및 마이그레이션</p>
       <br>
