@@ -48,6 +48,7 @@ about_content: | # this will include new lines to allow paragraphs
   또한 꾸준한 개발 블로그 업로드를 하여 몰랐었던 지식을 기록해오고 있습니다.
 
   더 나은 서비스를 위해 과감한 리펙토링도 마다하지 않으며, 항상 효율적인 코드를 짜기 위해 코드 한 줄 한 줄 깊게 생각하는 편입니다. 
+
 content:
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
