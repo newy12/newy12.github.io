@@ -84,7 +84,7 @@ content:
             - [메인페이지](https://mtn.co.kr/), [뉴스페이지](https://news.mtn.co.kr/) 개발 및 트래픽 개선
             - 회원 관련 모든 배치프로그램 개발
             - Mybatis → JPA 마이그레이션 및 운영 관리
-            - 인프라 AWS 환경에서의 개발 및 관리
+            - 인프라 NCP 환경에서의 개발 및 관리
       - layout: left
         title: 세이프소프트
         link: http://safesoft.co.kr/
