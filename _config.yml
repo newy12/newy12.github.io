@@ -135,12 +135,12 @@ content:
       <br>
       <br>
       - AWS Cloud에서 EC2 instance를 활용하여 프로젝트 서버를 구성
-      - NGINX를 이용하여 트래픽 분산을 위한 서버 [로드 밸런싱](https://yjkim-dev.tistory.com/83) 구축
+      - Nginx를 이용하여 트래픽 분산을 위한 서버 [로드 밸런싱](https://yjkim-dev.tistory.com/83) 구축
       - Jenkins를 활용하여 [파이프라인 CI/CD]([파이프라인 CI/CD (1)](https://yjkim-dev.tistory.com/11))를 구축하여 배포 자동화 구현. 
       - Docker-compose를 활용한 [다중 컨테이너](https://yjkim-dev.tistory.com/76) 관리 및 프로세스 구축 경험
-
-
-      <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">정리 및 발표</p>
+      <br>
+      <br>
+      <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">회고 및 발표</p>
       <br>
       <br>
       - [팀원들에게 도움이 되고자 Docker 사용법 및 컨테이너 관리 프로세스 설명](https://young-dev.notion.site/c17c4677efaf4f4780ef6cd41fed0648?pvs=4) (2023.05)
@@ -148,6 +148,13 @@ content:
       - [데이터량에 따른 MongoDB 성능 지표 확인](https://young-dev.notion.site/MongoDB-b6ff4a1839e04ecbb5b3b19ee3eea389) (2022.06)
       - [사내 MongoDB 도입을 위한 MongoDB에 대한 성능의 이점 및 실제 기업들의 활용방안 발표](https://young-dev.notion.site/MongoDB-43f94d1656714bcaa26970b4f82405ef) (2022.01)
       - [기초 프론트 개발에 필요한 전반적인 지식 및 템플릿 엔진에 대한 설명 발표](https://young-dev.notion.site/Box-Model-58fb86c3e7034b37bd0aa59a13c63679) (2021.10)
+      <br>
+      <br>
+       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">[개인 블로그 활동](https://yjkim-dev.tistory.com/)</p>
+      <br>
+      <br>
+      - 큰 부분에서부터 작은 부분까지 학습한 혹은 알게된 내용을 기록하고 내 것으로 소화하기 위해 꾸준히 블로그 글 작성 
+      - 대부분 개발 관련 내용만 기술
       <br>
       <br>
        <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">코딩 관련 IT 서적 검토</p>
