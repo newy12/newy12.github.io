@@ -209,7 +209,7 @@ content:
           영화 커뮤니케이션 웹사이트
         description: | # this will include new lines to allow paragraphs
           - 영화를 좋아하는 사람들에게 영화의 개봉일자, 평점 등 정보를 제공하며 해당 영화에 댓글을 달아 사람들과 소통을 할 수 있는 프로젝트
-          - Springboot(java),Spring security, JWT, Redis, Spring Data MongoDB, MongoDB, AWS(EC2), Junit  
+          - Springboot(Java), Spring security, JWT, Redis, Spring Data MongoDB, MongoDB, AWS(EC2) 
           - [영화 커뮤니케이션 웹사이트 포트폴리오 설명](https://young-dev.notion.site/API-818d769c5b014ceaa6191c24659a6be6)    
           - [영화 커뮤니케이션 웹사이트 깃허브 소스코드](https://github.com/MovieApplication/backend)
       - layout: left
@@ -219,6 +219,7 @@ content:
           포트폴리오 소셜 어플리케이션
         description: | # this will include new lines to allow paragraphs
           - 대학생 혹은 직장인들을 타켓으로 잡아 그들의 커리어를 위한 포트폴리오 제작 플랫폼 서비스 어플리케이션
+          - Springboot(Java), Spring Data Jpa, Spring security, JWT, Redis, Mysql, AWS(EC2,RDS,S3)
           - [포트폴리오 소셜 어플리케이션 포트폴리오 설명](https://young-dev.notion.site/SUMMAR-API-7ca3cd4f333b49ca849c929e50460544)
           - <p><s>App Store 배포</s> (현재 앱스토어에서 내린 상태)</p>
           - [포트폴리오 소셜 어플리케이션 깃허브 소스코드](https://github.com/ios-summar/Backend)
@@ -229,6 +230,7 @@ content:
           프리랜서 마켓 서비스(KH정보교육원 교육당시 최종 프로젝트 7조 중 1등)
         description: | # this will include new lines to allow paragraphs
           - 크몽이나, 숨고같은 프리랜서들을 위한 프리랜서 마켓 서비스 웹사이트
+          - Spring(Java), Mybatis, AWS(EC2,RDS,S3), Oracle
           - [프리랜서 마켓 서비스 웹사이트 포트폴리오 설명](https://young-dev.notion.site/KH-a3881a368d1d4e8ab59b1fcfd0d63da5)
           - [프리랜서 마켓 서비스 웹사이트 깃허브 소스코드](https://github.com/newy12/Final_19oclockProject)
   - title: Education # Title for the section
