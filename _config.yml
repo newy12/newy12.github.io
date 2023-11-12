@@ -229,7 +229,7 @@ content:
           프리랜서 마켓 서비스(KH정보교육원 교육당시 최종 프로젝트 7조 중 1등)
         description: | # this will include new lines to allow paragraphs
           - 크몽이나, 숨고같은 프리랜서들을 위한 프리랜서 마켓 서비스 웹사이트
-          - Spring(Java), Mybatis, AWS(EC2,RDS,S3), Oracle
+          - Spring(Java), Mybatis, Oracle, AWS(EC2,RDS,S3)
           - [프리랜서 마켓 서비스 웹사이트 포트폴리오 설명](https://young-dev.notion.site/KH-a3881a368d1d4e8ab59b1fcfd0d63da5)
           - [프리랜서 마켓 서비스 웹사이트 깃허브 소스코드](https://github.com/newy12/Final_19oclockProject)
   - title: Education # Title for the section
