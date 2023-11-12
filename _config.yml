@@ -247,8 +247,9 @@ content:
         title:  청주대학교
         caption: 2015.03 ~ 2021.02
         description: | # this will include new lines to allow paragraphs
-          - 컴퓨터정보공학과 부 학생회장
-          - Java, C, database, Python 등 기초 개발언어에 대한 교육
+          - 컴퓨터정보공학과 부 학생회장 활동을 하여 리더십,협동심,문제해결능력 등 다양한 역량을 키울수 있는 소중한 기회를 얻음
+          - 학과 내에서의 대표적인 프로젝트나 행사를 성공적으로 기획하고 진행함으로써 학우들 간의 유대감을 증진 시키는데 기여 
+          - Java, C, Python, Database 등 기초 개발언어에 대한 교육 수료
   - title: Certificate # Title for the section
     layout: list # Type of content section (list/text)
     content:
