@@ -107,37 +107,37 @@ content:
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">시스템 개발 및 유지보수</p>
       <br>
       <br>
-      - 머니투데이방송 뉴스페이지, 메인페이지 유지보수 담당 (2022. 10 ~ ing)
-      - 머니투데이방송 Postfix 활용한 회원 관련 이벤트 처리 및 알림 배치 프로그램 개발 (2023.04 ~ 2023.05)
-      - 머니투데이방송 회원정보 및 대량의 결제 데이터 이관 배치 프로그램 개발 (2022.12 ~ 2022.12)
-      - 머니투데이방송 기존로그인 → SSO 전환 작업 및 SNS(Kakao,Naver) 로그인 개발 (2022.10 ~ 2023.01)
-      - 세이프소프트 중앙대광명병원 임상시험센터 대상자 관리 시스템 프로젝트 참여 (2022.01 ~ 2022.07)
-      - 세이프소프트 회사 소개 페이지 퍼블리싱 및 프론트 개발 (2021.05 ~ 2021.07)
-      - 세이프소프트 내부 서비스 6개 파이프라인 CI/CD 자동화 구축 (2021.10 ~ 2021.10)
-      - 세이프소프트 사내 Bug Tracking System 개발 참여 (2021.08 ~ 2021.12)
+      - 머니투데이방송 뉴스페이지, 메인페이지 유지보수 및 개발을 담당하였습니다. (2022. 10 ~ ing)
+      - 머니투데이방송 Postfix 활용한 회원 관련 이벤트 처리 및 알림 배치 프로그램을 개발하였습니다. (2023.04 ~ 2023.05)
+      - 머니투데이방송 회원정보 및 대량의 결제 데이터 이관 배치 프로그램을 개발하였습니다. (2022.12 ~ 2022.12)
+      - 머니투데이방송 기존로그인 → SSO 전환 작업 및 SNS(Kakao,Naver) 로그인 개발을 하였습니다. (2022.10 ~ 2023.01)
+      - 세이프소프트 중앙대광명병원 임상시험센터 대상자 관리 시스템 프로젝트 참여하여 대상자의 서명동의 및 사용자 인증 파트를 개발하였습니다. (2022.01 ~ 2022.07)
+      - 세이프소프트 회사 소개 페이지 퍼블리싱 및 프론트 개발을 하였습니다. (2021.05 ~ 2021.07)
+      - 세이프소프트 내부 서비스 6개 파이프라인 CI/CD 자동화를 구축하였습니다. (2021.10 ~ 2021.10)
+      - 세이프소프트 사내 Bug Tracking System 프로젝트 개발에 참여하였습니다. (2021.08 ~ 2021.12)
       <br>
       <br>
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">시스템 리팩토링 및 마이그레이션</p>
       <br>
       <br>
       - 머니투데이방송 Postfix -> Cloud Outbound Mailer로의 이전 및 통합을 통해 NCP 클라우드 기반 메일링 시스템 최적화 (2023.11 ~ 2023.11)
-      - 머니투데이방송 대량의 이메일 전송 시 메세지 손실 방지를 위해 메세지 큐 탑재 (2023.10 ~ 2023.10)
-      - 머니투데이방송 10초마다 파일 추적 후 이벤트 처리하던 크론탭 → Java 와치서비스 적용 후 리소스 낭비 개선 (2023.09 ~ 2023.10)
-      - 머니투데이방송 대량의 기사 데이터를 한번에 불러와 느려졌던 이슈를 페이징 및 캐싱하여 성능 개선 (2023.07 ~ 2023.08)
-      - 머니투데이방송 기사 데이터 조회 시 조금 더 성능 최적화를 위해 Logstash 수집 인덱스에 칼럼 추가하여 성능 개선 (2023.01 ~ 2023.01)
-      - 머니투데이방송 내부 서비스 70%  PHP → Java 시스템 마이그레이션 (2022.10 ~ 2022.12)
-      - 머니투데이방송 내부 서비스 90%  Mybatis → JPA 시스템 마이그레이션 (2022.09 ~ 2022.11)
-      - 세이프소프트 모든 웹 서비스 SSL 인증서 적용 (2021.10 ~ 2021.10)
-      - 세이프소프트 문서로 정리하던 API 명세 → Swagger OpenAPI 전환 (2021.10 ~ 2021.10)
+      - 머니투데이방송 대량의 이메일 전송 시 메세지 손실 방지를 위해 메세지 큐를 탑재하였습니다. (2023.10 ~ 2023.10)
+      - 머니투데이방송 10초마다 파일 추적 후 이벤트 처리하던 크론탭 → Java 와치서비스 적용 후 리소스 낭비를 개선하였습니다. (2023.09 ~ 2023.10)
+      - 머니투데이방송 대량의 기사 데이터를 한번에 불러와 느려졌던 이슈를 페이징 및 캐싱하여 성능을 개선하였습니다. (2023.07 ~ 2023.08)
+      - 머니투데이방송 기사 데이터 조회 시 조금 더 성능 최적화를 위해 Logstash 수집 인덱스에 칼럼 추가하여 성능을 개선하였습니다. (2023.01 ~ 2023.01)
+      - 머니투데이방송 내부 서비스 70% PHP → Java 시스템 마이그레이션하였습니다. (2022.10 ~ 2022.12)
+      - 머니투데이방송 내부 서비스 90% Mybatis → JPA 시스템 마이그레이션하였습니다. (2022.09 ~ 2022.11)
+      - 세이프소프트 모든 웹사이트에 SSL 인증서를 적용하여 보안을 강화하였습니다. (2021.10 ~ 2021.10)
+      - 세이프소프트 문서로 정리하던 API 명세 → Swagger OpenAPI로 전환하여 소통의 효율을 높였습니다. (2021.10 ~ 2021.10)
       <br>
       <br>
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">웹 어플리케이션 구현 & 배포 경험</p>
       <br>
       <br>
-      - AWS Cloud에서 EC2 instance를 활용하여 프로젝트 서버를 구성
-      - Nginx를 이용하여 트래픽 분산을 위한 서버 [로드 밸런싱](https://yjkim-dev.tistory.com/83) 구축
-      - Jenkins를 활용하여 [파이프라인 CI/CD]([파이프라인 CI/CD (1)](https://yjkim-dev.tistory.com/11))를 구축하여 배포 자동화 구현. 
-      - Docker-compose를 활용한 [다중 컨테이너](https://yjkim-dev.tistory.com/76) 관리 및 프로세스 구축 경험
+      - AWS Cloud에서 EC2 instance를 활용하여 프로젝트 서버를 구성하였습니다.
+      - Nginx를 이용하여 트래픽 분산을 위한 서버 [로드 밸런싱](https://yjkim-dev.tistory.com/83)을 구축하였습니다. 
+      - Jenkins를 활용하여 [파이프라인 CI/CD]([파이프라인 CI/CD (1)](https://yjkim-dev.tistory.com/11))를 구축하여 배포 자동화을 구현하였습니다.
+      - Docker-compose를 활용한 [다중 컨테이너](https://yjkim-dev.tistory.com/76) 관리 및 프로세스 구축해 본적이 있습니다.
       <br>
       <br>
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">회고 및 발표</p>
@@ -160,9 +160,9 @@ content:
        <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">코딩 관련 IT 서적 검토</p>
       <br>
       <br>
-      - [수학이쑥쑥!코딩이척척! 초등코딩수학사고력 1~4단계 중 3단계](http://www.yes24.com/Product/Goods/101780376) 출간 전 검토자로 참여
-      - 67p 순차탐색 그림 오류 / 68p 비행기 로봇의 미로 탈출을 위한 최단거리 답안 오류 / 75p 동물분류 알고리즘 그림 오류 검토
-      - 책의 앞부분에 검토자 이름으로 표기
+      - [수학이쑥쑥!코딩이척척! 초등코딩수학사고력 1~4단계 중 3단계](http://www.yes24.com/Product/Goods/101780376) 출간 전 검토자로 참여하였습니다.
+      - 67p 순차탐색 그림 오류 / 68p 비행기 로봇의 미로 탈출을 위한 최단거리 답안 오류 / 75p 동물분류 알고리즘 그림 오류 검토 등 출간 전 검토하여 답안 오류를 제기하였습니다.
+      - 책의 앞부분에 검토자 이름으로 표기되었습니다.
       <br>
       <br>
   - title: Skill # Title for the section
@@ -205,7 +205,7 @@ content:
         quote: >
           영화 커뮤니케이션 웹사이트
         description: | # this will include new lines to allow paragraphs
-          - 영화를 좋아하는 사람들에게 영화의 개봉일자, 평점 등 정보를 제공하며 해당 영화에 댓글을 달아 사람들과 소통을 할 수 있는 프로젝트
+          - 영화를 좋아하는 사람들에게 영화의 개봉일자, 평점 등 정보를 제공하며 해당 영화에 댓글을 달아 사람들과 소통을 할 수 있는 프로젝트 입니다.
           - Springboot(Java), Spring security, JWT, Redis, Spring Data MongoDB, MongoDB, AWS(EC2) 
           - [영화 커뮤니케이션 웹사이트 포트폴리오 설명](https://young-dev.notion.site/API-818d769c5b014ceaa6191c24659a6be6)    
           - [영화 커뮤니케이션 웹사이트 깃허브 소스코드](https://github.com/MovieApplication/backend)
@@ -215,7 +215,7 @@ content:
         quote: >
           포트폴리오 소셜 어플리케이션
         description: | # this will include new lines to allow paragraphs
-          - 대학생 혹은 직장인들을 타켓으로 잡아 그들의 커리어를 위한 포트폴리오 제작 플랫폼 서비스 어플리케이션
+          - 대학생 혹은 직장인들을 타켓으로 잡아 그들의 커리어를 위한 포트폴리오 제작 플랫폼 서비스 어플리케이션 입니다.
           - Springboot(Java), Spring Data Jpa, Spring security, JWT, Redis, Mysql, AWS(EC2,RDS,S3)
           - [포트폴리오 소셜 어플리케이션 포트폴리오 설명](https://young-dev.notion.site/SUMMAR-API-7ca3cd4f333b49ca849c929e50460544)
           - [포트폴리오 소셜 어플리케이션 깃허브 소스코드](https://github.com/ios-summar/Backend)
@@ -226,7 +226,7 @@ content:
         quote: >
           프리랜서 마켓 서비스(KH정보교육원 교육당시 최종 프로젝트 7조 중 1등)
         description: | # this will include new lines to allow paragraphs
-          - 크몽이나, 숨고같은 프리랜서들을 위한 프리랜서 마켓 서비스 웹사이트
+          - 크몽이나, 숨고같은 프리랜서들을 위한 프리랜서 마켓 서비스 웹사이트 입니다.
           - Spring(Java), Mybatis, Oracle, AWS(EC2,RDS,S3)
           - [프리랜서 마켓 서비스 웹사이트 포트폴리오 설명](https://young-dev.notion.site/KH-a3881a368d1d4e8ab59b1fcfd0d63da5)
           - [프리랜서 마켓 서비스 웹사이트 깃허브 소스코드](https://github.com/newy12/Final_19oclockProject)
@@ -237,22 +237,22 @@ content:
         title:  KH 정보교육원
         caption: 2020.08 ~ 2021.01
         description: | # this will include new lines to allow paragraphs
-          - 웹 개발에 관심이 생김과 동시에 웹 어플리케이션 교육의 필요성을 느껴 참여
-          - 프론트에 필요한 기본 언어 교육과 Spring을 이용한 서버 구축 및 풀스택 과정
+          - 웹 개발에 관심이 생김과 동시에 웹 어플리케이션 교육의 필요성을 느껴 참여하였습니다.
+          - 프론트에 필요한 기본 언어 교육과 Spring을 이용한 서버 구축 및 풀스택 과정을 배웠습니다.
       - layout: left
         title:  이지디자인컴퓨터학원
         caption: 2019.04 ~ 2019.09
         description: | # this will include new lines to allow paragraphs
-          - 처음 웹에 대해 접하면서 화면 구상에 대한 궁금증을 해결하기 위해 참여
-          - HTML, CSS, JS 등 화면 구성에 필요한 언어에 대한 깊이 있는 교육 수강
-          - 기존 웹사이트를 클론코딩하여 퍼블리싱에 대한 공부를 하였고 퍼블리싱 기술 습득          
+          - 처음 웹에 대해 접하면서 화면 구상에 대한 궁금증을 해결하기 위해 참여하였습니다.
+          - HTML, CSS, JS 등 화면 구성에 필요한 언어에 대한 깊이 있는 교육 수강을 하였습니다.
+          - 기존 웹사이트를 클론코딩하여 퍼블리싱에 대한 공부를 하였고 퍼블리싱 기술을 습득 하였습니다.
       - layout: left
         title:  청주대학교
         caption: 2015.03 ~ 2021.02
         description: | # this will include new lines to allow paragraphs
-          - 컴퓨터정보공학과 부 학생회장 활동을 하여 리더십, 협동심, 문제해결능력 등 다양한 역량을 키울수 있는 소중한 기회를 얻음
-          - 학과 내에서의 대표적인 프로젝트나 행사를 성공적으로 기획하고 진행함으로써 학우들 간의 유대감을 증진 시키는데 기여 
-          - Java, C, Python, Database 등 기초 개발언어에 대한 교육 수료
+          - 컴퓨터정보공학과 부 학생회장 활동을 하여 리더십, 협동심, 문제해결능력 등 다양한 역량을 키울수 있는 소중한 기회를 얻었습니다.
+          - 학과 내에서의 대표적인 프로젝트나 행사를 성공적으로 기획하고 진행함으로써 학우들 간의 유대감을 증진 시키는데 기여하였습니다. 
+          - Java, C, Python, Database 등 기초 개발언어에 대한 교육을 수료하였습니다.
   - title: Certificate # Title for the section
     layout: list # Type of content section (list/text)
     content:
