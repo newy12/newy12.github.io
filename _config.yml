@@ -187,7 +187,7 @@ content:
           - Jenkins, Docker, Docker-compose
           - AWS(RDS/EC2/S3), NCP
           - Nginx, Tomcat
-          - Swagger, Slack, Notion, Obsidian
+          - Swagger, Slack, Obsidian
       - layout: left
         title: Frontend
         quote: 
