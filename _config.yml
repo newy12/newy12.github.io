@@ -176,27 +176,25 @@ content:
           - Java
           - Spring Boot, Spring MVC, Spring Batch, Spring Security
           - Spring Data JPA/Redis, JWT, RabbitMQ
-          - Junit4/5, Mockito
-          - Gradle, Maven
-          - IntelliJ, WebStorm, DataGrip
+          - Junit, Mockito
       - layout: left
         title: DevOps
         quote: 
           현재 업무에 사용중 혹은 사용했던 기술들입니다.
         description: | # this will include new lines to allow paragraphs
-          - Elastic Search, Logstash, Kibana
+          - ELK
           - MySQL(MariaDB), MongoDB
           - Jenkins, Docker, Docker-compose
-          - AWS RDS/EC2/S3, NCP
+          - AWS(RDS/EC2/S3), NCP
           - Nginx, Tomcat
-          - SwaggerUI, Slack, Notion, Obsidian
+          - Swagger, Slack, Notion, Obsidian
       - layout: left
         title: Frontend
         quote: 
           현재 업무에 사용중 혹은 사용했던 기술들입니다.
         description: | # this will include new lines to allow paragraphs
-          - ES6, React.js
-          - Npm
+          - Javascript
+          - React.js
 
   - title: Project # Title for the section
     layout: list # Type of content section (list/text)
