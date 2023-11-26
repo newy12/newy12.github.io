@@ -175,7 +175,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Java
           - Spring Boot, Spring MVC, Spring Batch, Spring Security
-          - Spring Data JPA/Redis, JWT, RabbitMQ
+          - Spring Data JPA/Redis, QueryDSL, JWT, RabbitMQ
           - Junit, Mockito
       - layout: left
         title: DevOps
