@@ -111,18 +111,18 @@ content:
       <br>
       <p style="font-size:25px;font-weight:bold;color:grey;"> 머니투데이방송 </p>
       <br>
-      - 머니투데이방송 뉴스페이지, 메인페이지 유지보수 및 개발을 담당하였습니다. <span style="font-size:13px;">(2022. 10 ~ ing)</span>
-      - 머니투데이방송 Postfix 활용한 회원 관련 이벤트 처리 및 알림 배치 프로그램을 개발하였습니다. <span style="font-size:13px;">(2023.04 ~ 2023.05)</span>
-      - 머니투데이방송 회원정보 및 대량의 결제 데이터 이관 배치 프로그램을 개발하였습니다. <span style="font-size:13px;">(2022.12 ~ 2022.12)</span>
-      - 머니투데이방송 기존로그인 → SSO 전환 작업 및 SNS(Kakao,Naver) 로그인 개발을 하였습니다. <span style="font-size:13px;">(2022.10 ~ 2023.01)</span>
+      - Spring Batch를 이용하여 MariaDB10.6 -> CloudDB(Mysql 8) 으로의 회원정보 및 대량의 결제 데이터 이관하는 배치 개발 <span style="font-size:13px;">(2022. 10 ~ ing)</span>
+      - 기존 서비스 -> NCP에서 제공하는 서비스들로 대규모 교체 개발 <span style="font-size:13px;">(2023.04 ~ 2023.05)</span>
+      - Spring Boot를 이용하여 기존의 모든 PHP 서버 소스코드 대체 API 개발 <span style="font-size:13px;">(2022.12 ~ 2022.12)</span>
+      - RabbitMQ를 이용하여 기존 모노리틱 아기텍쳐에서 MSA 도입으로 noti 관련 모듈 별도로 분리, 메세지큐 통신 개발 <span style="font-size:13px;">(2022.10 ~ 2023.01)</span>
       <br>
       <br>
       <p style="font-size:25px;font-weight:bold;color:grey;"> 세이프소프트 </p>
       <br>
-      - 세이프소프트 중앙대광명병원 임상시험센터 대상자 관리 시스템 프로젝트 참여하여 대상자의 서명동의 및 사용자 인증 파트를 개발하였습니다. <span style="font-size:13px;">(2022.01 ~ 2022.07)</span>
-      - 세이프소프트 회사 소개 페이지 퍼블리싱 및 프론트 개발을 하였습니다. <span style="font-size:13px;">(2021.05 ~ 2021.07)</span>
-      - 세이프소프트 내부 서비스 6개 파이프라인 CI/CD 자동화를 구축하였습니다. <span style="font-size:13px;">(2021.10 ~ 2021.10)</span>
-      - 세이프소프트 사내 Bug Tracking System 프로젝트 개발에 참여하였습니다. <span style="font-size:13px;">(2021.08 ~ 2021.12)</span>
+      - 중앙대광명병원 임상시험센터 대상자 관리 시스템 대상자의 서명동의 및 사용자 인증 파트를 개발 <span style="font-size:13px;">(2022.01 ~ 2022.07)</span>
+      - 회사 소개 페이지 웹사이트 구현 <span style="font-size:13px;">(2021.05 ~ 2021.07)</span>
+      - 내부 서비스 6개 파이프라인 CI/CD 자동화를 구축 및 무중단 배포 구현 <span style="font-size:13px;">(2021.10 ~ 2021.10)</span>
+      - 사내 Bug Tracking System 프로젝트 개발에 참여하여 대쉬보드 UI 퍼블리싱 <span style="font-size:13px;">(2021.08 ~ 2021.12)</span>
       <br>
       <br>
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">시스템 리팩토링 및 마이그레이션</p>
@@ -130,19 +130,23 @@ content:
       <br>
       <p style="font-size:25px;font-weight:bold;color:grey;"> 머니투데이방송 </p>
       <br>
-      - 머니투데이방송 Postfix -> Cloud Outbound Mailer로의 이전 및 통합을 통해 NCP 클라우드 기반 메일링 시스템을 최적화하였습니다. <span style="font-size:13px;">(2023.11 ~ 2023.11)</span>
-      - 머니투데이방송 대량의 이메일 전송 시 메세지 손실 방지를 위해 메세지 큐를 탑재하였습니다. <span style="font-size:13px;">(2023.10 ~ 2023.10)</span>
-      - 머니투데이방송 10초마다 파일 추적 후 이벤트 처리하던 크론탭 → Java 와치서비스 적용 후 리소스 낭비를 개선하였습니다. <span style="font-size:13px;">(2023.09 ~ 2023.10)</span>
-      - 머니투데이방송 대량의 기사 데이터를 한번에 불러와 느려졌던 이슈를 페이징 및 캐싱하여 성능을 개선하였습니다. <span style="font-size:13px;">(2023.07 ~ 2023.08)</span>
-      - 머니투데이방송 기사 데이터 조회 시 조금 더 성능 최적화를 위해 Logstash 수집 인덱스에 칼럼 추가하여 성능을 개선하였습니다. <span style="font-size:13px;">(2023.01 ~ 2023.01)</span>
-      - 머니투데이방송 내부 서비스 70% PHP → Java 시스템 마이그레이션하였습니다. <span style="font-size:13px;">(2022.10 ~ 2022.12)</span>
-      - 머니투데이방송 내부 서비스 90% Mybatis → JPA 시스템 마이그레이션하였습니다. <span style="font-size:13px;">(2022.09 ~ 2022.11)</span>
+      - 프로젝트를 독립적으로 사용하기 위해 & MSA 구조에 최적화하기 위해 멀티모듈구조로 개선 <span style="font-size:13px;">(2023.11 ~ 2023.11)</span>
+      - 메세지 손실 최소화를 위해 RabbitMQ 도입 후 안정적 운영 <span style="font-size:13px;">(2023.10 ~ 2023.10)</span>
+      - Java의 WatchService로 PHP cron 스크립트를 대체하여, 파일 변경을 실시간 감지하고 리소스를 효율적으로 개선 <span style="font-size:13px;">(2023.09 ~ 2023.10)</span>
+      - JPA 로직 리팩토링을 통한 쿼리 성능 개선 (10초 -> 3초)
+      <br>
+        - <span style="font-size:13px;font-weight:bold;color:grey;">전체 조회를 해오던 쿼리 -> DTO 매핑조회를 이용하여 필요한 칼럼만 조회</span>
+      <br>
+        - <span style="font-size:13px;font-weight:bold;color:grey;">전체 Update 해오던 쿼리 -> @DynamicUpdate 이용하여 필요한 칼럼만 Update</span>
+      - 캐시 처리 및 Logstash Index를 이용하여 기사데이터 Select 성능 2~3배 이상 개선 <span style="font-size:13px;">(2023.01 ~ 2023.01)</span>
+      - PHP 서비스 -> Java & Spring 기반 프레임워크로 전환 작업 <span style="font-size:13px;">(2022.10 ~ 2022.12)</span>
+      - JPA를 이용하여 복잡한 쿼리를 제외한 Mybatis 를 대체하여, 코드의 가독성 향상 <span style="font-size:13px;">(2022.09 ~ 2022.11)</span>
       <br>
       <br>
       <p style="font-size:25px;font-weight:bold;color:grey;"> 세이프소프트 </p>
       <br>
-      - 세이프소프트 모든 웹사이트에 SSL 인증서를 적용하여 보안을 강화하였습니다. <span style="font-size:13px;">(2021.10 ~ 2021.10)</span>
-      - 세이프소프트 문서로 정리하던 API 명세 → Swagger OpenAPI로 전환하여 소통의 효율을 높였습니다. <span style="font-size:13px;">(2021.10 ~ 2021.10)</span>
+      - 모든 웹사이트에 SSL 인증서를 적용 및 NGINX 관리 <span style="font-size:13px;">(2021.10 ~ 2021.10)</span>
+      - API 명세 Swagger로 전환하여 업무 효율 향상<span style="font-size:13px;">(2021.10 ~ 2021.10)</span>
       <br>
       <br>
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">코딩 관련 IT 서적 검토</p>
