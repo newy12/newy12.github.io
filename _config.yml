@@ -42,7 +42,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/youngjae.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Java & Spring 기반의 3년차 서버 백엔드 개발자로 현재 케이블 방송을 통해 <mark>3,400만 가구</mark> 에 증권 경제 콘텐츠 제공, <mark>100.2만명</mark> 의 유튜브 구독자 수를 보유하고 있는 <mark>머니투데이방송</mark> 에서 백엔드 신규 플랫폼 개발 및 기존 서비스 리뉴얼 등을 해왔습니다.
+  Java & Spring 기반의 4년차 서버 백엔드 개발자로 현재 케이블 방송을 통해 <mark>3,400만 가구</mark> 에 증권 경제 콘텐츠 제공, <mark>100만명 이상</mark> 의 유튜브 구독자 수를 보유하고 있는 <mark>머니투데이방송</mark> 에서 백엔드 신규 플랫폼 개발 및 기존 서비스 리뉴얼 등을 해왔습니다.
 
   개발을 진행하는데 있어서 저는 사용자의 시각에서 서비스를 먼저 고려하고, 항상 의심을 품고 여러 번 체크하는 습관을 가지고 있습니다. 
   이를 실천하기 위해 Junit과 Mockito를 활용하여 테스트 코드를 작성하며 소프트웨어의 견고성을 확보하고 있습니다. 
@@ -87,6 +87,7 @@ content:
             - 회원 관련 모든 배치프로그램 개발
             - Mybatis → JPA 마이그레이션 및 운영 관리
             - 인프라 NCP 환경에서의 개발 및 관리
+            - Monolithic -> MSA 구조로 개선
       - layout: left
         title: 세이프소프트
         # link_text: boringcompany.com
@@ -97,7 +98,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             - [중앙대학교 광명병원 임상시험센터 대상자 관리 시스템 프로젝트 참여](http://www.huscience.net/ko/smartTC/cau-gh.php)
             - 신규 서비스 전체 아키텍처 및 도메인 모델 설계
-            - Thymeleaf 템플릿 엔진 활용한 SSR 구축
+            - Thymeleaf 템플릿 엔진 활용한 프론트 개발
             - 내부 서비스 6개 시스템 유지보수 및 추가 개발 담당
             - IDC 인프라 환경에서의 개발 및 관리
 
@@ -108,28 +109,57 @@ content:
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">시스템 개발 및 유지보수</p>
       <br>
       <br>
-      - 머니투데이방송 뉴스페이지, 메인페이지 유지보수 및 개발을 담당하였습니다. (2022. 10 ~ ing)
-      - 머니투데이방송 Postfix 활용한 회원 관련 이벤트 처리 및 알림 배치 프로그램을 개발하였습니다. (2023.04 ~ 2023.05)
-      - 머니투데이방송 회원정보 및 대량의 결제 데이터 이관 배치 프로그램을 개발하였습니다. (2022.12 ~ 2022.12)
-      - 머니투데이방송 기존로그인 → SSO 전환 작업 및 SNS(Kakao,Naver) 로그인 개발을 하였습니다. (2022.10 ~ 2023.01)
-      - 세이프소프트 중앙대광명병원 임상시험센터 대상자 관리 시스템 프로젝트 참여하여 대상자의 서명동의 및 사용자 인증 파트를 개발하였습니다. (2022.01 ~ 2022.07)
-      - 세이프소프트 회사 소개 페이지 퍼블리싱 및 프론트 개발을 하였습니다. (2021.05 ~ 2021.07)
-      - 세이프소프트 내부 서비스 6개 파이프라인 CI/CD 자동화를 구축하였습니다. (2021.10 ~ 2021.10)
-      - 세이프소프트 사내 Bug Tracking System 프로젝트 개발에 참여하였습니다. (2021.08 ~ 2021.12)
+      <p style="font-size:25px;font-weight:bold;color:grey;"> 머니투데이방송 </p>
+      <br>
+      - 머니투데이방송 뉴스페이지, 메인페이지 유지보수 및 개발을 담당하였습니다. <span style="font-size:13px;">(2022. 10 ~ ing)</span>
+      - 머니투데이방송 Postfix 활용한 회원 관련 이벤트 처리 및 알림 배치 프로그램을 개발하였습니다. <span style="font-size:13px;">(2023.04 ~ 2023.05)</span>
+      - 머니투데이방송 회원정보 및 대량의 결제 데이터 이관 배치 프로그램을 개발하였습니다. <span style="font-size:13px;">(2022.12 ~ 2022.12)</span>
+      - 머니투데이방송 기존로그인 → SSO 전환 작업 및 SNS(Kakao,Naver) 로그인 개발을 하였습니다. <span style="font-size:13px;">(2022.10 ~ 2023.01)</span>
+      <br>
+      <br>
+      <p style="font-size:25px;font-weight:bold;color:grey;"> 세이프소프트 </p>
+      <br>
+      - 세이프소프트 중앙대광명병원 임상시험센터 대상자 관리 시스템 프로젝트 참여하여 대상자의 서명동의 및 사용자 인증 파트를 개발하였습니다. <span style="font-size:13px;">(2022.01 ~ 2022.07)</span>
+      - 세이프소프트 회사 소개 페이지 퍼블리싱 및 프론트 개발을 하였습니다. <span style="font-size:13px;">(2021.05 ~ 2021.07)</span>
+      - 세이프소프트 내부 서비스 6개 파이프라인 CI/CD 자동화를 구축하였습니다. <span style="font-size:13px;">(2021.10 ~ 2021.10)</span>
+      - 세이프소프트 사내 Bug Tracking System 프로젝트 개발에 참여하였습니다. <span style="font-size:13px;">(2021.08 ~ 2021.12)</span>
       <br>
       <br>
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">시스템 리팩토링 및 마이그레이션</p>
       <br>
       <br>
-      - 머니투데이방송 Postfix -> Cloud Outbound Mailer로의 이전 및 통합을 통해 NCP 클라우드 기반 메일링 시스템을 최적화하였습니다. (2023.11 ~ 2023.11)
-      - 머니투데이방송 대량의 이메일 전송 시 메세지 손실 방지를 위해 메세지 큐를 탑재하였습니다. (2023.10 ~ 2023.10)
-      - 머니투데이방송 10초마다 파일 추적 후 이벤트 처리하던 크론탭 → Java 와치서비스 적용 후 리소스 낭비를 개선하였습니다. (2023.09 ~ 2023.10)
-      - 머니투데이방송 대량의 기사 데이터를 한번에 불러와 느려졌던 이슈를 페이징 및 캐싱하여 성능을 개선하였습니다. (2023.07 ~ 2023.08)
-      - 머니투데이방송 기사 데이터 조회 시 조금 더 성능 최적화를 위해 Logstash 수집 인덱스에 칼럼 추가하여 성능을 개선하였습니다. (2023.01 ~ 2023.01)
-      - 머니투데이방송 내부 서비스 70% PHP → Java 시스템 마이그레이션하였습니다. (2022.10 ~ 2022.12)
-      - 머니투데이방송 내부 서비스 90% Mybatis → JPA 시스템 마이그레이션하였습니다. (2022.09 ~ 2022.11)
-      - 세이프소프트 모든 웹사이트에 SSL 인증서를 적용하여 보안을 강화하였습니다. (2021.10 ~ 2021.10)
-      - 세이프소프트 문서로 정리하던 API 명세 → Swagger OpenAPI로 전환하여 소통의 효율을 높였습니다. (2021.10 ~ 2021.10)
+      <p style="font-size:25px;font-weight:bold;color:grey;"> 머니투데이방송 </p>
+      <br>
+      - 머니투데이방송 Postfix -> Cloud Outbound Mailer로의 이전 및 통합을 통해 NCP 클라우드 기반 메일링 시스템을 최적화하였습니다. <span style="font-size:13px;">(2023.11 ~ 2023.11)</span>
+      - 머니투데이방송 대량의 이메일 전송 시 메세지 손실 방지를 위해 메세지 큐를 탑재하였습니다. <span style="font-size:13px;">(2023.10 ~ 2023.10)</span>
+      - 머니투데이방송 10초마다 파일 추적 후 이벤트 처리하던 크론탭 → Java 와치서비스 적용 후 리소스 낭비를 개선하였습니다. <span style="font-size:13px;">(2023.09 ~ 2023.10)</span>
+      - 머니투데이방송 대량의 기사 데이터를 한번에 불러와 느려졌던 이슈를 페이징 및 캐싱하여 성능을 개선하였습니다. <span style="font-size:13px;">(2023.07 ~ 2023.08)</span>
+      - 머니투데이방송 기사 데이터 조회 시 조금 더 성능 최적화를 위해 Logstash 수집 인덱스에 칼럼 추가하여 성능을 개선하였습니다. <span style="font-size:13px;">(2023.01 ~ 2023.01)</span>
+      - 머니투데이방송 내부 서비스 70% PHP → Java 시스템 마이그레이션하였습니다. <span style="font-size:13px;">(2022.10 ~ 2022.12)</span>
+      - 머니투데이방송 내부 서비스 90% Mybatis → JPA 시스템 마이그레이션하였습니다. <span style="font-size:13px;">(2022.09 ~ 2022.11)</span>
+      <br>
+      <br>i
+      <p style="font-size:25px;font-weight:bold;color:grey;"> 세이프소프트 </p>
+      <br>
+      - 세이프소프트 모든 웹사이트에 SSL 인증서를 적용하여 보안을 강화하였습니다. <span style="font-size:13px;">(2021.10 ~ 2021.10)</span>
+      - 세이프소프트 문서로 정리하던 API 명세 → Swagger OpenAPI로 전환하여 소통의 효율을 높였습니다. <span style="font-size:13px;">(2021.10 ~ 2021.10)</span>
+      <br>
+      <br>
+      <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">코딩 관련 IT 서적 검토</p>
+      <br>
+      <br>
+      - [수학이쑥쑥!코딩이척척! 초등코딩수학사고력 1~4단계 중 3단계](http://www.yes24.com/Product/Goods/101780376) 출간 전 검토자로 참여하였습니다.
+      - 67p 순차탐색 그림 오류
+      - 68p 비행기 로봇의 미로 탈출을 위한 최단거리 답안 오류
+      - 75p 동물분류 알고리즘 그림 오류 검토 등 출간 전 검토하여 답안 오류를 제기하였습니다.
+      - 책의 앞부분에 검토자 이름으로 표기되었습니다.
+      <br>
+      <br>
+      <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">개인 블로그 활동</p>
+      <br>
+      <br>
+      - 큰 부분에서부터 작은 부분까지 학습한 혹은 알게된 내용을 기록하고 내 것으로 소화하기 위해 꾸준히 [블로그](https://yjkim-dev.tistory.com/) 글 작성을 해오고 있습니다. 
+      - 대부분 개발 관련 내용만 꾸준히 기술하였습니다.
       <br>
       <br>
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">웹 어플리케이션 구현 & 배포 경험</p>
@@ -149,21 +179,6 @@ content:
       - [데이터량에 따른 MongoDB 성능 지표 확인](https://young-dev.notion.site/MongoDB-b6ff4a1839e04ecbb5b3b19ee3eea389) (2022.06)
       - [사내 MongoDB 도입을 위한 MongoDB에 대한 성능의 이점 및 실제 기업들의 활용방안 발표](https://young-dev.notion.site/MongoDB-43f94d1656714bcaa26970b4f82405ef) (2022.01)
       - [기초 프론트 개발에 필요한 전반적인 지식 및 템플릿 엔진에 대한 설명 발표](https://young-dev.notion.site/Box-Model-58fb86c3e7034b37bd0aa59a13c63679) (2021.10)
-      <br>
-      <br>
-       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">개인 블로그 활동</p>
-      <br>
-      <br>
-      - 큰 부분에서부터 작은 부분까지 학습한 혹은 알게된 내용을 기록하고 내 것으로 소화하기 위해 꾸준히 [블로그](https://yjkim-dev.tistory.com/) 글 작성을 해오고 있습니다. 
-      - 대부분 개발 관련 내용만 꾸준히 기술하였습니다.
-      <br>
-      <br>
-       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">코딩 관련 IT 서적 검토</p>
-      <br>
-      <br>
-      - [수학이쑥쑥!코딩이척척! 초등코딩수학사고력 1~4단계 중 3단계](http://www.yes24.com/Product/Goods/101780376) 출간 전 검토자로 참여하였습니다.
-      - 67p 순차탐색 그림 오류 / 68p 비행기 로봇의 미로 탈출을 위한 최단거리 답안 오류 / 75p 동물분류 알고리즘 그림 오류 검토 등 출간 전 검토하여 답안 오류를 제기하였습니다.
-      - 책의 앞부분에 검토자 이름으로 표기되었습니다.
       <br>
       <br>
   - title: Skill # Title for the section
