@@ -138,7 +138,7 @@ content:
       - 머니투데이방송 내부 서비스 70% PHP → Java 시스템 마이그레이션하였습니다. <span style="font-size:13px;">(2022.10 ~ 2022.12)</span>
       - 머니투데이방송 내부 서비스 90% Mybatis → JPA 시스템 마이그레이션하였습니다. <span style="font-size:13px;">(2022.09 ~ 2022.11)</span>
       <br>
-      <br>i
+      <br>
       <p style="font-size:25px;font-weight:bold;color:grey;"> 세이프소프트 </p>
       <br>
       - 세이프소프트 모든 웹사이트에 SSL 인증서를 적용하여 보안을 강화하였습니다. <span style="font-size:13px;">(2021.10 ~ 2021.10)</span>
