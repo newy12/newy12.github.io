@@ -17,7 +17,7 @@ darkmode: never
 
 # Social links
 instagram_username: whatthepub_
-github_username:  newy12
+github_username: newy12
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 facebook_username: people/%EA%B9%80%EC%98%81%EC%9E%AC/100005892694461/
@@ -29,9 +29,9 @@ facebook_username: people/%EA%B9%80%EC%98%81%EC%9E%AC/100005892694461/
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-blog
-  url: https://yjkim-dev.tistory.com/
+  - title: itsgoingto.be
+    icon: fas fa-blog
+    url: https://yjkim-dev.tistory.com/
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
@@ -51,24 +51,24 @@ about_content: | # this will include new lines to allow paragraphs
   이를 통해 다양한 개발 이슈에 대한 해결책을 공유하고, 지속적인 성장을 추구하고 있습니다.
 
 content:
-#  - title: Projects # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: top-middle
-#        title: Super awesome project
-#        link: github.com/sproogen
-        # link_text: Project Website
-#        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#        quote: >
-#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#        description: | # this will include new lines to allow paragraphs
-#          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  #  - title: Projects # Title for the section
+  #    layout: list # Type of content section (list/text)
+  #    content:
+  #      - layout: top-middle
+  #        title: Super awesome project
+  #        link: github.com/sproogen
+  # link_text: Project Website
+  #        additional_links:
+  #          - title:  sproogen/modern-resume-theme
+  #            icon: fab fa-github
+  #            url: github.com/sproogen/modern-resume-theme
+  # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #   icon: fab fa-github
+  #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #        quote: >
+  #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #        description: | # this will include new lines to allow paragraphs
+  #          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,12 +82,12 @@ content:
         quote: >
           3,400만 가구, 100만명이상의 유튜브 구독자 보유
         description: | # this will include new lines to allow paragraphs
-            - 대규모 트래픽, 데이터 환경에서의 API/Batch 개발
-            - [메인페이지](https://mtn.co.kr/), [뉴스페이지](https://news.mtn.co.kr/) 개발 및 트래픽 개선
-            - 회원 관련 모든 배치프로그램 개발
-            - Mybatis → JPA 마이그레이션 및 운영 관리
-            - 인프라 NCP 환경에서의 개발 및 관리
-            - Monolithic -> MSA 구조로 개선
+          - 대규모 트래픽, 데이터 환경에서의 API/Batch 개발
+          - [메인페이지](https://mtn.co.kr/), [뉴스페이지](https://news.mtn.co.kr/) 개발 및 트래픽 개선
+          - 회원 관련 모든 배치프로그램 개발
+          - Mybatis → JPA 마이그레이션 및 운영 관리
+          - 인프라 NCP 환경에서의 개발 및 관리
+          - Monolithic -> MSA 구조로 개선
       - layout: left
         title: 세이프소프트
         # link_text: boringcompany.com
@@ -96,11 +96,11 @@ content:
         quote: >
 
         description: | # this will include new lines to allow paragraphs
-            - [중앙대학교 광명병원 임상시험센터 대상자 관리 시스템 프로젝트 참여](http://www.huscience.net/ko/smartTC/cau-gh.php)
-            - 신규 서비스 전체 아키텍처 및 도메인 모델 설계
-            - Thymeleaf 템플릿 엔진 활용한 프론트 개발
-            - 내부 서비스 6개 시스템 유지보수 및 추가 개발 담당
-            - IDC 인프라 환경에서의 개발 및 관리
+          - [중앙대학교 광명병원 임상시험센터 대상자 관리 시스템 프로젝트 참여](http://www.huscience.net/ko/smartTC/cau-gh.php)
+          - 신규 서비스 전체 아키텍처 및 도메인 모델 설계
+          - Thymeleaf 템플릿 엔진 활용한 프론트 개발
+          - 내부 서비스 6개 시스템 유지보수 및 추가 개발 담당
+          - IDC 인프라 환경에서의 개발 및 관리
 
 
   - title: 역량
@@ -190,7 +190,7 @@ content:
     content:
       - layout: left
         title: Backend
-        quote: 
+        quote:
           현재 업무에 사용중 혹은 사용했던 기술들입니다.
         description: | # this will include new lines to allow paragraphs
           - Java
@@ -200,7 +200,7 @@ content:
           - Junit, Mockito
       - layout: left
         title: DevOps
-        quote: 
+        quote:
           현재 업무에 사용중 혹은 사용했던 기술들입니다.
         description: | # this will include new lines to allow paragraphs
           - ELK
@@ -211,7 +211,7 @@ content:
           - Swagger, Slack, Obsidian
       - layout: left
         title: Frontend
-        quote: 
+        quote:
           현재 업무에 사용중 혹은 사용했던 기술들입니다.
         description: | # this will include new lines to allow paragraphs
           - Javascript, Thymeleaf
@@ -221,54 +221,55 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title:  Movie Project
+        link: https://github.com/MovieApplication/backend
+        title: Movie Project
         caption: 2023.04 ~ 2023.05
         quote: >
           영화 커뮤니케이션 웹사이트
         description: | # this will include new lines to allow paragraphs
-          - 영화를 좋아하는 사람들에게 영화의 개봉일자, 평점 등 정보를 제공하며 해당 영화에 댓글을 달아 사람들과 소통을 할 수 있는 프로젝트
+          - 최신 영화 정보와 평점을 제공하며 사용자들이 댓글로 소통할 수 있는 서비스
           - Springboot(Java), Spring security, JWT, Redis, Spring Data MongoDB, MongoDB, AWS(EC2) 
-          - [영화 커뮤니케이션 웹사이트 포트폴리오 설명](https://young-dev.notion.site/API-818d769c5b014ceaa6191c24659a6be6)    
-          - [영화 커뮤니케이션 웹사이트 깃허브 소스코드](https://github.com/MovieApplication/backend)
+          - [영화 커뮤니케이션 웹사이트 포트폴리오 설명](https://young-dev.notion.site/API-818d769c5b014ceaa6191c24659a6be6)
       - layout: left
+        link: https://github.com/ios-summar/Backend
         title: Summar Application
         caption: 2022.11 - 2023.03
         quote: >
           포트폴리오 소셜 어플리케이션
         description: | # this will include new lines to allow paragraphs
-          - 대학생 혹은 직장인들을 타켓으로 잡아 그들의 커리어를 위한 포트폴리오 제작 플랫폼 서비스 어플리케이션
+          - 대학생 혹은 직장인들을 타켓으로 잡아 그들의 커리어를 위한 포트폴리오 제작 서비스
           - Springboot(Java), Spring Data Jpa, Spring security, JWT, Redis, Mysql, AWS(EC2,RDS,S3)
           - [포트폴리오 소셜 어플리케이션 포트폴리오 설명](https://young-dev.notion.site/SUMMAR-API-7ca3cd4f333b49ca849c929e50460544)
-          - [포트폴리오 소셜 어플리케이션 깃허브 소스코드](https://github.com/ios-summar/Backend)
           - <p><s>App Store 배포</s> (현재 앱스토어에서 내린 상태)</p>
       - layout: left
-        title:  Freelancer Market Project
+        link: https://github.com/newy12/Final_19oclockProject
+        title: Freelancer Market Project
         caption: 2020.12 - 2021.01
         quote: >
-          프리랜서 마켓 서비스(KH정보교육원 교육당시 최종 프로젝트 7조 중 1등)
+          프리랜서 마켓 서비스
         description: | # this will include new lines to allow paragraphs
+          - KH정보교육원 교육당시 최종 프로젝트 7조 중 1등 작품
           - 크몽이나, 숨고같은 프리랜서들을 위한 프리랜서 마켓 서비스 웹사이트
           - Spring(Java), Mybatis, Oracle, AWS(EC2,RDS,S3)
           - [프리랜서 마켓 서비스 웹사이트 포트폴리오 설명](https://young-dev.notion.site/KH-a3881a368d1d4e8ab59b1fcfd0d63da5)
-          - [프리랜서 마켓 서비스 웹사이트 깃허브 소스코드](https://github.com/newy12/Final_19oclockProject)
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title:  KH 정보교육원
+        title: KH 정보교육원
         caption: 2020.08 ~ 2021.01
         description: | # this will include new lines to allow paragraphs
           - 웹 개발에 관심이 생김과 동시에 웹 어플리케이션 교육의 필요성을 느껴 참여
           - 프론트에 필요한 기본 언어 교육과 Spring을 이용한 서버 구축 및 풀스택 과정 교육
       - layout: left
-        title:  이지디자인컴퓨터학원
+        title: 이지디자인컴퓨터학원
         caption: 2019.04 ~ 2019.09
         description: | # this will include new lines to allow paragraphs
           - 처음 웹에 대해 접하면서 화면 구상에 대한 궁금증을 해결하기 위해 참여
           - HTML, CSS, JS 등 화면 구성에 필요한 언어에 대한 깊이 있는 교육 수강
           - 기존 웹사이트를 클론코딩하여 퍼블리싱에 대한 공부를 하였고 퍼블리싱 기술 교육
       - layout: left
-        title:  청주대학교
+        title: 청주대학교
         caption: 2015.03 ~ 2021.02
         description: | # this will include new lines to allow paragraphs
           - 컴퓨터정보공학과 부 학생회장 활동을 하여 리더십, 협동심, 문제해결능력 등 다양한 역량 증강 및 경험
@@ -278,13 +279,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title:  정보처리기사
-        caption: 
+        title: 정보처리기사
+        caption:
         description: | # this will include new lines to allow paragraphs
           - 2021.06 취득 
           - 한국산업인력 공단
-    
-          
+
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
@@ -297,4 +298,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
