@@ -114,7 +114,7 @@ content:
       - Spring Batch를 이용하여 MariaDB10.6 -> CloudDB(Mysql 8) 으로의 회원정보 및 대량의 결제 데이터 이관하는 배치 개발 <span style="font-size:13px;">(2022. 10 ~ ing)</span>
       - 기존 서비스 -> NCP에서 제공하는 서비스들로 대규모 교체 개발 <span style="font-size:13px;">(2023.04 ~ 2023.05)</span>
       - Spring Boot를 이용하여 기존의 모든 PHP 서버 소스코드 대체 API 개발 <span style="font-size:13px;">(2022.12 ~ 2022.12)</span>
-      - [RabbitMQ를 이용하여 기존 모노리틱 아기텍쳐에서 MSA 도입으로 noti 관련 모듈 별도로 분리, 메세지큐 통신 개발](https://yjkim-dev.tistory.com/108) <span style="font-size:13px;">(2022.10 ~ 2023.01)</span>
+      - [알림 서비스를 별도 모듈로 분리하고, RabbitMQ를 이용해 큐 통신으로 모듈 간 연동을 구현](https://yjkim-dev.tistory.com/108) <span style="font-size:13px;">(2022.10 ~ 2023.01)</span>
       <br>
       <br>
       <p style="font-size:25px;font-weight:bold;color:grey;"> 세이프소프트 </p>
