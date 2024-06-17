@@ -178,11 +178,10 @@ content:
       <p style="font-size:27px;text-align:center;font-weight:bold;color:grey;">회고 및 발표</p>
       <br>
       <br>
-      - [팀원들에게 도움이 되고자 Docker 사용법 및 컨테이너 관리 프로세스 설명](https://young-dev.notion.site/c17c4677efaf4f4780ef6cd41fed0648?pvs=4) <span style="font-size:13px;">(2023.05)</span>
-      - [MVC 패턴에 대한 기초적인 설명과 API 통신의 흐름에 대한 프로세스 설명](https://young-dev.notion.site/MVC-0329b3c8cb4644c582eb8749c738dd86) <span style="font-size:13px;">(2023.02)</span>
-      - [데이터량에 따른 MongoDB 성능 지표 확인](https://young-dev.notion.site/MongoDB-b6ff4a1839e04ecbb5b3b19ee3eea389) <span style="font-size:13px;">(2022.06)</span>
-      - [사내 MongoDB 도입을 위한 MongoDB에 대한 성능의 이점 및 실제 기업들의 활용방안 발표](https://young-dev.notion.site/MongoDB-43f94d1656714bcaa26970b4f82405ef) <span style="font-size:13px;">(2022.01)</span>
-      - [기초 프론트 개발에 필요한 전반적인 지식 및 템플릿 엔진에 대한 설명 발표](https://young-dev.notion.site/Box-Model-58fb86c3e7034b37bd0aa59a13c63679) <span style="font-size:13px;">(2021.10)</span>
+      - Docker 사용법 및 컨테이너 관리 프로세스 설명 <span style="font-size:13px;">(2023.05)</span>
+      - MVC 패턴에 대한 기초적인 설명과 API 통신의 흐름에 대한 프로세스 설명 <span style="font-size:13px;">(2023.02)</span>
+      - 데이터량에 따른 MongoDB 성능 지표 확인 <span style="font-size:13px;">(2022.06)</span>
+      - MongoDB에 대한 성능의 이점 및 실제 기업들의 활용방안 발표 <span style="font-size:13px;">(2022.01)</span>
       <br>
       <br>
   - title: Skill # Title for the section
