@@ -195,7 +195,7 @@ content:
           - Java
           - Spring Boot, Spring MVC, Spring Cloud, Spring Batch, Spring Security
           - Spring Data JPA/Redis, QueryDSL, JWT, RabbitMQ
-          - Eureka, FeignClient
+          - Eureka, FeignClient, Vault
           - Junit, Mockito
       - layout: left
         title: DevOps
