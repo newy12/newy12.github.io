@@ -282,6 +282,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           - 2021.06 취득 
           - 한국산업인력공단
+      - layout: left
+        title: 리눅스마스터2급
+        caption:
+        description: | # this will include new lines to allow paragraphs
+          - 2024.06 취득 
+          - KAIT정보통기술자격검정          
 
 
 # Footer
